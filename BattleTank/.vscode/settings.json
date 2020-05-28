@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/.vs": true,
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/.vscode": true,
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/Content": true,
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/DerivedDataCache": true,
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/Intermediate": true,
+		"C:/Users/jospr/Projects/Unreal/UN_BattleTank/BattleTank/Saved": true
+	}
+}
