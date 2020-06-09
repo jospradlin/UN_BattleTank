@@ -7,6 +7,9 @@
 		{
 			"name": "UE4",
 			"path": "C:\\Program Files\\Epic Games\\UE_4.25"
+		},
+		{
+			"path": "..\\..\\BuildingEscape_Source\\Building_Escape"
 		}
 	],
 	"settings": {
